@@ -1,0 +1,5 @@
+- Hi! I’m Erin
+- I’m interested in all things code and design
+- I’m currently learning JavaScript, C++, and Blender3D
+- email:erinekelly0415@yahoo.com            
+- Pronouns: she/her
